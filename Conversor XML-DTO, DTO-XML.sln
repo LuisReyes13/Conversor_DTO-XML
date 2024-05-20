@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversor XML-DTO, DTO-XML", "Conversor XML-DTO, DTO-XML\Conversor XML-DTO, DTO-XML.csproj", "{3FF94C23-8099-4727-8420-EEB2E90CCA5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF94C23-8099-4727-8420-EEB2E90CCA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF94C23-8099-4727-8420-EEB2E90CCA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF94C23-8099-4727-8420-EEB2E90CCA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF94C23-8099-4727-8420-EEB2E90CCA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B2561E7-D9C7-457B-8437-4F9491FB79EA}
+	EndGlobalSection
+EndGlobal
